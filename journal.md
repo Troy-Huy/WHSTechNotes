@@ -1,3 +1,5 @@
+# September 17, 2024
+this week we have Testing so no journal
 # September 11, 2024
 9/11 Ceremony - No Assignment
 # September 10, 2024
