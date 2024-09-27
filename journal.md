@@ -1,3 +1,7 @@
+# September 27, 2024
+It is good to develop good habits of attention to detail early into your coding journey becasue it helps or teach you many stuff if you are focus and listening becasue one of my uncles
+said that he never listen in this part of class and missed alot of cool things he never get to do then finally that was my reasoning bfrom that it could happen to me as well if 
+i dont focus nor pay attention to every single deatail about the subject or lesson.
 # September 17, 2024
 this week we have Testing so no journal
 # September 11, 2024
