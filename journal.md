@@ -1,3 +1,10 @@
+# December 2, 2024
+Employment: AI can automate routine tasks, which may lead to job displacement in certain sectors. However, it also creates opportunities for new jobs that require advanced skills in AI development, maintenance, and oversight. The future job market may demand more creative, strategic, and interpersonal skills.
+
+Innovation and Efficiency: AI has the potential to revolutionize industries by increasing efficiency, automating routine tasks, and enabling businesses to focus on more complex and creative work. This can lead to significant advancements in productivity and innovation.
+
+AI can be used to create adaptive learning platforms that customize educational experiences for individual students.
+
 # November 12, 2024
 Recently, a significant event that captured attention was the global response to the rising threat of cyberattacks, particularly those targeting critical infrastructure. This situation relates to our class concepts of problem-solving and technology, as it necessitates a multi-faceted approach to identify vulnerabilities in systems, develop preventive measures, and devise responsive plans for potential breaches. Stakeholders, including government agencies, private sectors, and cybersecurity firms, engage in collaborative data analysis to understand attack patterns and improve defenses, showcasing the importance of integrated problem-solving techniques in utilizing technology to safeguard sensitive information.
 
