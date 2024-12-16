@@ -1,3 +1,5 @@
+# December 16, 2024
+As the days grow shorter and the temperature drops, the anticipation of cozy nights by the fireplace, festive gatherings with family and friends, and the thrill of holiday celebrations begins to fill the air. It’s a time to unwind from the hustle and bustle of everyday life, enjoy delightful treats, and create cherished memories. 
 # December 9, 2024 
 The term "brain rot" evokes a sense of unease and disconnection, suggesting that prolonged exposure to digital media can lead to a decay of mental faculties. To me, it represents the cumulative effect of mindless scrolling, endless notifications, and the constant barrage of information that can leave one feeling drained, anxious, and disconnected from the world. This year, I've definitely felt the negative impact of digital media on my mental well-being. The constant stream of news, social media updates, and email notifications has created a sense of perpetual anxiety, making it difficult for me to fully focus on any one task or relationship.
 
