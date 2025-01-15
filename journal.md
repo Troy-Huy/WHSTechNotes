@@ -1,4 +1,4 @@
-# Janurary 8, 2024 
+# Janurary 8, 2025
 The things that i'd enjoyed about this class last semester is that we did a lot of fun project even though the project was very hard, the finished product was really great, finally there is nothing to improve in this class because its already good enough. The topic or activities that are intresting was the minecraft code because it shows how or where to put or type in the code for the exact movements you need and then there nothing specific  i dont want to work on
 Finally I dint want to pursue on this subject for a certification but will do it for fun.
 # December 16, 2024
