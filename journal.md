@@ -1,8 +1,11 @@
 # January 29, 2025
-Jimmy who worked onthe Honda Civic made a mistake by drilling a hole in the Gas Tank.
-Kayla who worked on the GMC Sierra made a mistake by Fixing the wrong problem.
-Bart who worked on the Toyota Corolla made a mistake by leaving stains on the carpet.
-Harrison who eorked on the Subaru Forester made a mistake by leaving the oil cap off.
+| Name     | Car | Mistake |
+| :------- | :-- | :------ |
+| Jimmy    | Honda Civic    | Drilling a hole in the gas tank        |
+| Kayla    | GMC Sierra  | Fixing the wrong problem        |
+| Bart     | Toyota Corolla    | Leaving stains on the carpet        |
+| Harrison | Subaru Forester    | Leaving the oli cap off        |
+
 # January 22, 2025
 Government intervention in technology companies can have profound effects on both the companies themselves and their users. On one hand, regulatory measures can enhance user privacy and security by enforcing strict guidelines on data protection and handling. For instance, the implementation of regulations like the General Data Protection Regulation (GDPR) in Europe sets a precedent for how personal data should be managed, compelling companies to adopt more transparent and responsible practices. This can build consumer trust and help protect individuals from potential abuses or exploitation of their data. However, this regulatory environment can also create challenges for technology companies, particularly startups, as compliance with these regulations may require substantial resources, legal expertise, and operational adjustments that smaller companies might struggle to afford.
 
