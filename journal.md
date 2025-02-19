@@ -1,3 +1,5 @@
+# February 18, 2025
+The things that i've learned in computer science class was that there is a lot to coding more than just placing blocks in specific order from typing the right code can show a graph or make art out of coding by using lines as a source of codes.
 # February 11, 2025
 Our application, dubbed "Gridiron Insight," aims to revolutionize the way NFL coaches make in-game decisions by providing real-time data analytics and visualization. The platform will integrate with existing team systems to collect data on player performance, team statistics, and opponent tendencies. Coaches will be able to access this information on a dashboard that displays key metrics such as player efficiency ratings, team momentum indicators, and situational statistics (e.g., red zone performance, third-down conversion rates). The data will be updated in real-time, allowing coaches to adjust their strategy mid-game and respond to unexpected developments on the field.
 
