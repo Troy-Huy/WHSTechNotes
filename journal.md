@@ -1,3 +1,12 @@
+# March 3, 2025
+| Name    | Power | Challenge |
+| :------ | :---- | :-------- |
+| Zara    |Invisibility       | Extract Prisoner          |
+| Aether  |Weather Manipulation       |Underwater Rescue           |
+| Thorne  |Telekenesis       |Secure Building           |
+| Silver  |Mind Control       |Prevent Assassination           |
+| Tangier |Shapeshifting       |Retrieve Stolen Goods           |
+
 # February 26, 2025
 Technology has the potential to bridge generational language gaps by providing real-time translation tools that facilitate seameless communication. These tools can be enhanced with cultural context features, ensuring that expressions and idioms are appropiately translated to maintain professionalism and respect for cultural nuances. Additionally, online training platforms can offer resources tailored to different generations, promoting language skills and fostering mutual understanding. Ultimately, leveraging technology in this way can create an inclusive enviroment where diverse perspctives are valued and collaboration thrives across age divides.
 # February 18, 2025
