@@ -1,4 +1,4 @@
-# March 3, 2025
+# March 4, 2025
 | Name    | Power | Challenge |
 | :------ | :---- | :-------- |
 | Zara    |Invisibility       | Extract Prisoner          |
