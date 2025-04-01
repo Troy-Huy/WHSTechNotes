@@ -1,3 +1,5 @@
+# March 31, 2025 
+I'm felling physically sick and tired and mentally good and for the most stressful part of the school is my band practice from styaing there for at least 3 hrs or less or more thyen the things thaqt can help me from stressful moments are from playing family games with my family.
 # March 4, 2025
 | Name    | Power | Challenge |
 | :------ | :---- | :-------- |
