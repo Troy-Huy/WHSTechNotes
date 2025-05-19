@@ -1,3 +1,5 @@
+# May 19, 2025
+Im ready for the summer because my favorite people are coming to see me.
 # April 2, 2025 
 I did the Hour of Code by playing on Minecraft Adventurer
 # March 31, 2025 
